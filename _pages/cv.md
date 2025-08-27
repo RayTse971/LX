@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Postdoctoral Fellow / 博士后研究员，2021 – 2024  
-  Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong, China / 香港科技大学 电子与计算机工程学系，中国香港
+  Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong, China / 电子与计算机工程学系，香港科技大学，中国香港
 
 Publications
 ======
