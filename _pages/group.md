@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Group Members"
+title: "Group"
 permalink: /group/
 author_profile: true
 redirect_from:
   - /group
 ---
+
+Introduction / 课题组介绍
+------
 
 本课题组致力于将前沿理论与工程应用深度融合，围绕“通信–感知一体化系统”（Integrated Sensing and Communication，ISAC）展开系统性研究，并拓展机器学习在通信与感知场景中的创新应用。我们的核心研究方向包括：
 
@@ -35,7 +38,7 @@ redirect_from:
 
 期待你的加入，一起在通信感知一体化领域实现突破与创新！
 
-Master Student
+Master Student / 硕士生
 ------
 
 Qiyuan He (2025 ~ Now)  
