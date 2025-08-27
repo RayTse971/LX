@@ -22,7 +22,7 @@ repository               : "https://raytse971.github.io/LX.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/LX.png"
+  avatar           : "LX.png"
   name             : "Lei XIE (谢磊)"
   pronouns         : # example: "she/her"  
   bio              : "Associated Professor (leixie@seu.edu.cn)"
