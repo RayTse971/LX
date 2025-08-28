@@ -10,7 +10,10 @@
 main:
   - title: "CV"
     url: /cv/
-
+    
+  - title: "Group"
+    url: /group/
+    
   - title: "Project"
     url: /project/
     
