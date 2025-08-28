@@ -39,7 +39,7 @@ Introduction / 课题组介绍
 Master Student / 硕士生
 ------
 
-Qiyuan He (2025)  
-Wei Tan (2025)  
-Riyan Yang (2025)  
+Qiyuan He / 何其原 (2025)  
+Wei Tan / 谭炜 (2025)  
+Riyan Yang / 杨日艳 (2025)  
 
