@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Journal / 期刊论文**
-
+------
 
 1. **L. Xie**, F. Liu, J. Luo, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE Transactions on Communications, Early Access, 2025. 
 
@@ -45,7 +45,7 @@ redirect_from:
 17. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
 
 **Conference / 会议论文**
-
+------
 
 1. **L. Xie**, F. Liu, Z. Xie, Z. Jiang, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE International Conference on Communications (ICC), Denver, USA, 2024.
 
