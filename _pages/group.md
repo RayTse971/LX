@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Group"
+permalink: /group/
+author_profile: true
+redirect_from:
+  - /group
+---
 
 Introduction / 课题组介绍
 ------
@@ -33,6 +41,7 @@ Introduction / 课题组介绍
 Master Student / 硕士生
 ------
 
-Qiyuan He (2025 ~ Now)  
-Riyan Yang (2025 ~ Now)  
-Wei Tan (2025 ~ Now)
+Qiyuan He (2025)  
+Wei Tan (2025)
+Riyan Yang (2025)  
+
