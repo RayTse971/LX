@@ -42,6 +42,6 @@ Master Student / 硕士生
 ------
 
 Qiyuan He (2025)  
-Wei Tan (2025)
+Wei Tan (2025)  
 Riyan Yang (2025)  
 
