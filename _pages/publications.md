@@ -28,21 +28,23 @@ redirect_from:
 
 9. **L. Xie**, Z. He, J. Tong, H. Li, and L. Lin, “Fast long-time coherent integration algorithm for detecting manoeuvring targets with high-order motion parameters based on GKT and ISCPF”, IET Radar, Sonar & Navigation, 2019, 13(8): 1313-1322. 
 
-10. J Shi, X Yao, Z Wang, Z Cheng, **L. Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”. Signal Processing, 2025, 228: 109745.
+10. Z. Wang, B. Tan, M. Valkama, **L. Xie**, and Q. Wan, “Decentralized Indoor Direct Localization with Multiple Wi-Fi Access Points,” IEEE Transactions on Wireless Communications, Early Access, 2025. 
 
-11. W. Zhuang, Y. Mao, H. He, **L. Xie**, S. Song, Y. Ge, and Z. Ding, Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection, IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1913-1917, July 2024.
+11. J Shi, X Yao, Z Wang, Z Cheng, **L. Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”. Signal Processing, 2025, 228: 109745.
 
-12. Z. Wang, Y. Sun, **L. Xie**, and Q. Wan, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2431-2443, Feb. 2024.
+12. W. Zhuang, Y. Mao, H. He, **L. Xie**, S. Song, Y. Ge, and Z. Ding, Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection, IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1913-1917, July 2024.
 
-13. Z Wang, **L. Xie**, Q Wan, “Beamspace Joint Azimuth, Elevation and Delay Estimation for Large-Scale MIMO-OFDM System’’, IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, Apr. 2023. 
+13. Z. Wang, Y. Sun, **L. Xie**, and Q. Wan, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2431-2443, Feb. 2024.
 
-14. Z. Wang, K. Hao, Y. Sun, **L. Xie**, and Q. Wan, “A Computationally Efficient Direct Position Determination Algorithm Based on OFDM System”, IEEE Communications Letters, vol. 27, no. 3, pp. 841-845, Mar. 2023. 
+14. Z Wang, **L. Xie**, Q Wan, “Beamspace Joint Azimuth, Elevation and Delay Estimation for Large-Scale MIMO-OFDM System’’, IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, Apr. 2023. 
 
-15. Z. Wang, Y. Sun, Q. Wan, **L. Xie**, and N. Liu, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Sensors Journal, vol. 22, no. 22, pp. 21885-21898, Nov. 2022. 
+15. Z. Wang, K. Hao, Y. Sun, **L. Xie**, and Q. Wan, “A Computationally Efficient Direct Position Determination Algorithm Based on OFDM System”, IEEE Communications Letters, vol. 27, no. 3, pp. 841-845, Mar. 2023. 
 
-16. W. Peng, **L. Xie***, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE Communications Letters, vol. 26, no. 3, pp. 647-651, March 2022.
+16. Z. Wang, Y. Sun, Q. Wan, **L. Xie**, and N. Liu, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Sensors Journal, vol. 22, no. 22, pp. 21885-21898, Nov. 2022. 
 
-17. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
+17. W. Peng, **L. Xie***, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE Communications Letters, vol. 26, no. 3, pp. 647-651, March 2022.
+
+18. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
 
 **Conference / 会议论文**
 ------
