@@ -7,6 +7,8 @@ redirect_from:
   - /group
 ---
 
+{% include base_path %}
+
 Introduction / 课题组介绍
 ------
 
