@@ -19,11 +19,6 @@ Introduction / 课题组介绍
   - 设计高效资源分配与多功能波形，兼顾通信容量与环境感知性能
   - 分析系统容量、延迟、可靠性等关键指标，为6G及未来网络提供理论支撑
 
-<div style="text-align: center;">
-  <img src="/images/profile.png" alt="Research results figure" width="500"><br>
-  <em>Figure 1. Illustration of ISAC system.</em>
-</div>
-
 - **机器学习驱动的感知增强与重建**
   - 基于深度学习的点云补全 (Point Cloud Completion)
   - 场景重建与语义分割，重塑三维环境模型
