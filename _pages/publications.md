@@ -12,7 +12,7 @@ redirect_from:
 
 1. **L. Xie**, F. Liu, J. Luo, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE Transactions on Communications, Early Access, 2025. 
 
-2. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, Early Access, 2025. 
+2. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, vol. 24, no. 9, pp. 7822-7838, Sept. 2025. 
 
 3. **L. Xie**, S. Song, Y. C. Eldar, and K. B. Letaief, “Collaborative Sensing in Perceptive Mobile Networks: Opportunities and Challenges”, IEEE Wireless Communications, vol. 30, no. 1, pp. 16-23, Feb. 2023. 
 
