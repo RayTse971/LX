@@ -14,7 +14,7 @@ redirect_from:
 
 2. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, vol. 24, no. 9, pp. 7822-7838, Sept. 2025. 
 
-3. **L. Xie**, S. Song, Y. C. Eldar, and K. B. Letaief, “Collaborative Sensing in Perceptive Mobile Networks: Opportunities and Challenges”, IEEE Wireless Communications, vol. 30, no. 1, pp. 16-23, Feb. 2023. 
+3. **L. Xie**, S. Song, Y. C. Eldar, and K. B. Letaief, “Collaborative Sensing in Perceptive Mobile Networks: Opportunities and Challenges”, IEEE Wireless Communications, vol. 30, no. 1, pp. 16-23, Feb. 2023. (<span style="color:red">IEEE WCM Popular Paper</span>🔥)
 
 4. **L. Xie**, S. Song, and K. B. Letaief, “Networked Sensing with AI-Empowered Interference Management: Exploiting Macro-Diversity and Array Gain in Perceptive Mobile Networks”, IEEE Journal on Selected Areas in Communications, vol. 41, no. 12, pp. 3863-3877, Dec. 2023. 
 
