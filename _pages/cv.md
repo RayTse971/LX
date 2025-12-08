@@ -25,4 +25,5 @@ Work experience / 工作经历
 Service / 服务
 ------
 * Member, IEEE
-* TPC Co-Chair, 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)
+* TPC Co-Chair, 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall) workshop
+* TPC member, 2026 IEEE International Conference on Communications (ICC2026)
