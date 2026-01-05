@@ -27,4 +27,4 @@ Service / 服务
 * Member, IEEE
 * TPC member, 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall) workshop
 * TPC member, 2026 IEEE International Conference on Communications (ICC2026)
-* Co-Chair, 2026 IEEE Sensor Array and Multichannel Signal Processing (SAM) Special Session
+* Co-Chair, 2026 IEEE Sensor Array and Multichannel Signal Processing (SAM2026) Special Session
