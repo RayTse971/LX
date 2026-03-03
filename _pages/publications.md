@@ -40,7 +40,7 @@ redirect_from:
 
 15. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
 
-16. **L. Xie**, Z. He, J. Tong, and W. Zhang, “A Recursive Angle-Doppler Channel Selection Method for Reduced-Dimension Space-Time Adaptive Processing”, IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 5, pp. 3985-4000, Oct. 2020. 
+16. **L. Xie**, Z. He, J. Tong, and W. Zhang, “A Recursive Angle-Doppler Channel Selection Method for Reduced-Dimension Space-Time Adaptive Processing”, IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 5, pp. 3985-4000, Oct. 2020. (<span style="color:red">IEEE TAES Popular Paper</span>🔥)
 
 17. **L. Xie**, Z. He, J. Tong, J. Li, and H. Li, “Transmitter polarization optimization for space-time adaptive processing with diversely polarized antenna array”, Signal Processing, 2020, 169: 107401. 
 
