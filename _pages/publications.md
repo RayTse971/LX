@@ -49,20 +49,24 @@ redirect_from:
 **Conference / 会议论文**
 ------
 
-1. **L. Xie**, F. Liu, Z. Xie, Z. Jiang, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE International Conference on Communications (ICC), Denver, USA, 2024.
+1. **L. Xie**, H. He, S. Song, S. Jin, and K. B. Letaief, Unlocking Bistatic Target Detection for ISAC: Synergizing Deterministic Pilots and Unknown Random Data Payloads, IEEE International Conference on Communications (ICC), Glasgow, UK, 2026.
 
-2. **L. Xie**, S. Song, and Y. C. Eldar, “Model-driven Sensing Node Selection for Maneuvering Target Tracking”, IEEE Wireless Communications and Networking Conference (WCNC), Dubai, UAE, 2024.
+2. P. Wang, Y. Lin, **L. Xie**, W. Mei, and J. Fang, Sensing Mutual Information for Target-Mounted IRS-Enabled Wireless Sensing, 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025.
 
-3. Y. Xu, D. Xu, **L. Xie**, S. Song, “Joint BS Selection, User Association, and Beamforming Design for Network Integrated Sensing and Communication”, IEEE Global Communications Conference (GlobeCom), 2023.
+3. **L. Xie**, F. Liu, Z. Xie, Z. Jiang, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE International Conference on Communications (ICC), Denver, USA, 2024.
 
-4. Y. Xu, **L. Xie**, D. Xu, S. Song, “Fundamental Limits and Base Station Selection for Collaborative Sensing in Perceptive Mobile Network”, IEEE International Mediterranean Conference on Communications and Networking (MeditCom), 2023.
+4. **L. Xie**, S. Song, and Y. C. Eldar, “Model-driven Sensing Node Selection for Maneuvering Target Tracking”, IEEE Wireless Communications and Networking Conference (WCNC), Dubai, UAE, 2024.
 
-5. **L. Xie**, X. Yu, and S. Song, “Intelligent Reflecting Surface-Aided Maneuvering Target Sensing: True Velocity Estimation”, IEEE International Symposium on Wireless Communication Systems (ISWCS), 2022. (Invited Paper).
+5. Y. Xu, D. Xu, **L. Xie**, S. Song, “Joint BS Selection, User Association, and Beamforming Design for Network Integrated Sensing and Communication”, IEEE Global Communications Conference (GlobeCom), 2023.
 
-6. **L. Xie**, S. Song, “Iterative sparse recovery based passive localization in perceptive mobile networks”, Proceedings of the 1st ACM MobiCom Workshop on Integrated Sensing and Communications Systems, 2022.
+6. Y. Xu, **L. Xie**, D. Xu, S. Song, “Fundamental Limits and Base Station Selection for Collaborative Sensing in Perceptive Mobile Network”, IEEE International Mediterranean Conference on Communications and Networking (MeditCom), 2023.
 
-7. **L. Xie**, P. Li, X. Su, J. Tong, Z. He, and W. Zhang, “Reduced-dimension space-time adaptive processing in the presence of multiple targets”, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, 2021.
+7. **L. Xie**, X. Yu, and S. Song, “Intelligent Reflecting Surface-Aided Maneuvering Target Sensing: True Velocity Estimation”, IEEE International Symposium on Wireless Communication Systems (ISWCS), 2022. (Invited Paper).
+
+8. **L. Xie**, S. Song, “Iterative sparse recovery based passive localization in perceptive mobile networks”, Proceedings of the 1st ACM MobiCom Workshop on Integrated Sensing and Communications Systems, 2022.
+
+9. **L. Xie**, P. Li, X. Su, J. Tong, Z. He, and W. Zhang, “Reduced-dimension space-time adaptive processing in the presence of multiple targets”, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Brussels, Belgium, 2021.
   
-8. **L. Xie**, Z. He, and J. Tong, “A Fast Gridless Method for High Order Motion Parameter Estimation Based on PUMA”, 2020 15th IEEE International Conference on Signal Processing (ICSP), Beijing, China, 2020.
+10. **L. Xie**, Z. He, and J. Tong, “A Fast Gridless Method for High Order Motion Parameter Estimation Based on PUMA”, 2020 15th IEEE International Conference on Signal Processing (ICSP), Beijing, China, 2020.
 
 
