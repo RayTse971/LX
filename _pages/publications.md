@@ -10,7 +10,7 @@ redirect_from:
 **Journal / 期刊论文**
 ------
 
-1. L Xie, H He, Y Xiong, F Liu, S Jin, “Adaptive matched filtering for sensing with communication signals in cluttered environments,” IEEE Transactions on Signal Processing, Accepted, 2026. 
+1. **L Xie**, H He, Y Xiong, F Liu, S Jin, “Adaptive matched filtering for sensing with communication signals in cluttered environments,” IEEE Transactions on Signal Processing, Accepted, 2026. 
 
 2. Z. Wang, B. Tan, M. Valkama, **L. Xie**, and Q. Wan, “Decentralized Indoor Direct Localization with Multiple Wi-Fi Access Points,” IEEE Transactions on Wireless Communications, vol. 25, pp. 3091-3105, 2026.
 
