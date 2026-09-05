@@ -18,7 +18,7 @@ redirect_from:
 
 4. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, vol. 24, no. 9, pp. 7822-7838, Sept. 2025. 
 
-5. J Shi, X Yao, Z Wang, Z Cheng, **L Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”. Signal Processing, 2025, 228: 109745.
+5. J Shi, X Yao, Z Wang, Z Cheng, **L Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”, Signal Processing, 2025, 228: 109745.
 
 6. W. Zhuang, Y. Mao, H. He, **L. Xie**, S. Song, Y. Ge, and Z. Ding, "Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection", IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1913-1917, July 2024.
 
