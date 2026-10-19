@@ -10,43 +10,45 @@ redirect_from:
 **Journal / 期刊论文**
 ------
 
-1. **L. Xie**, H. He, Y. Xiong, F. Liu, S. Jin, “Adaptive matched filtering for sensing with communication signals in cluttered environments,” IEEE Transactions on Signal Processing, Accepted, 2026. 
+1. **L. Xie**, F. Liu, S. Song, and S. Jin, “Bistatic Target Detection by Exploiting Both Deterministic Pilots and Unknown Random Data Payloads,” IEEE Transactions on Wireless Communications, Accepted, 2026. 
 
-2. Z. Wang, B. Tan, M. Valkama, **L. Xie**, and Q. Wan, “Decentralized Indoor Direct Localization with Multiple Wi-Fi Access Points,” IEEE Transactions on Wireless Communications, vol. 25, pp. 3091-3105, 2026.
+2. **L. Xie**, H. He, Y. Xiong, F. Liu, S. Jin, “Adaptive matched filtering for sensing with communication signals in cluttered environments,” IEEE Transactions on Signal Processing, vol. 74, pp. 4273-4289, 2026. 
 
-3. **L. Xie**, F. Liu, J. Luo, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE Transactions on Communications, vol. 73, no. 10, pp. 9437-9452, Oct. 2025.
+3. Z. Wang, B. Tan, M. Valkama, **L. Xie**, and Q. Wan, “Decentralized Indoor Direct Localization with Multiple Wi-Fi Access Points,” IEEE Transactions on Wireless Communications, vol. 25, pp. 3091-3105, 2026.
 
-4. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, vol. 24, no. 9, pp. 7822-7838, Sept. 2025. 
+4. **L. Xie**, F. Liu, J. Luo, and S. Song, “Sensing Mutual Information with Random Signals in Gaussian Channels”, IEEE Transactions on Communications, vol. 73, no. 10, pp. 9437-9452, Oct. 2025.
 
-5. J Shi, X Yao, Z Wang, Z Cheng, **L Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”, Signal Processing, 2025, 228: 109745.
+5. **L. Xie**, H. He, S. Song, and Y. C. Eldar, “Model-Driven Sensing-Node Selection and Power Allocation for Tracking Maneuvering Targets in Perceptive Mobile Networks”, IEEE Transactions on Wireless Communications, vol. 24, no. 9, pp. 7822-7838, Sept. 2025. 
 
-6. W. Zhuang, Y. Mao, H. He, **L. Xie**, S. Song, Y. Ge, and Z. Ding, "Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection", IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1913-1917, July 2024.
+6. J. Shi, X. Yao, Z. Wang, Z. Cheng, **L. Xie**, “Reduced-dimension STAP method for conformal array based on sequential convex programming”, Signal Processing, 2025, 228: 109745.
 
-7. **L. Xie**, S. Song, and K. B. Letaief, “Networked Sensing with AI-Empowered Interference Management: Exploiting Macro-Diversity and Array Gain in Perceptive Mobile Networks”, IEEE Journal on Selected Areas in Communications, vol. 41, no. 12, pp. 3863-3877, Dec. 2023. 
+7. W. Zhuang, Y. Mao, H. He, **L. Xie**, S. Song, Y. Ge, and Z. Ding, "Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection", IEEE Wireless Communications Letters, vol. 13, no. 7, pp. 1913-1917, July 2024.
 
-8. Z. Wang, Y. Sun, **L. Xie**, and Q. Wan, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2431-2443, Feb. 2024.
+8. **L. Xie**, S. Song, and K. B. Letaief, “Networked Sensing with AI-Empowered Interference Management: Exploiting Macro-Diversity and Array Gain in Perceptive Mobile Networks”, IEEE Journal on Selected Areas in Communications, vol. 41, no. 12, pp. 3863-3877, Dec. 2023. 
 
-9. Z Wang, **L. Xie**, Q Wan, “Beamspace Joint Azimuth, Elevation and Delay Estimation for Large-Scale MIMO-OFDM System’’, IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, Apr. 2023. 
+9. Z. Wang, Y. Sun, **L. Xie**, and Q. Wan, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2431-2443, Feb. 2024.
 
-10. **L. Xie**, S. Song, Y. C. Eldar, and K. B. Letaief, “Collaborative Sensing in Perceptive Mobile Networks: Opportunities and Challenges”, IEEE Wireless Communications, vol. 30, no. 1, pp. 16-23, Feb. 2023. (<span style="color:red">IEEE WCM Popular Paper</span>🔥)
+10. Z Wang, **L. Xie**, Q Wan, “Beamspace Joint Azimuth, Elevation and Delay Estimation for Large-Scale MIMO-OFDM System’’, IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, Apr. 2023. 
 
-11. Z. Wang, K. Hao, Y. Sun, **L. Xie**, and Q. Wan, “A Computationally Efficient Direct Position Determination Algorithm Based on OFDM System”, IEEE Communications Letters, vol. 27, no. 3, pp. 841-845, Mar. 2023. 
+11. **L. Xie**, S. Song, Y. C. Eldar, and K. B. Letaief, “Collaborative Sensing in Perceptive Mobile Networks: Opportunities and Challenges”, IEEE Wireless Communications, vol. 30, no. 1, pp. 16-23, Feb. 2023. (<span style="color:red">IEEE WCM Popular Paper</span>🔥)
 
-12. **L. Xie**, P. Wang, S. Song, and K. B. Letaief, “Perceptive Mobile Network with Distributed Target Monitoring Terminals: Leaking Communication Energy for Sensing”, IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10193-10207, Dec. 2022. 
+12. Z. Wang, K. Hao, Y. Sun, **L. Xie**, and Q. Wan, “A Computationally Efficient Direct Position Determination Algorithm Based on OFDM System”, IEEE Communications Letters, vol. 27, no. 3, pp. 841-845, Mar. 2023. 
 
-13. Z. Wang, Y. Sun, Q. Wan, **L. Xie**, and N. Liu, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Sensors Journal, vol. 22, no. 22, pp. 21885-21898, Nov. 2022. 
+13. **L. Xie**, P. Wang, S. Song, and K. B. Letaief, “Perceptive Mobile Network with Distributed Target Monitoring Terminals: Leaking Communication Energy for Sensing”, IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10193-10207, Dec. 2022. 
 
-14. **L. Xie**, Z. He, J. Tong, T. Liu, J. Li, and J. Xi,“Regularized Covariance Estimation for Polarization Radar Detection in Compound Gaussian Sea Clutter”, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, Jan. 2022. 
+14. Z. Wang, Y. Sun, Q. Wan, **L. Xie**, and N. Liu, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Sensors Journal, vol. 22, no. 22, pp. 21885-21898, Nov. 2022. 
 
-15. W. Peng, **L. Xie***, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE Communications Letters, vol. 26, no. 3, pp. 647-651, March 2022.
+15. **L. Xie**, Z. He, J. Tong, T. Liu, J. Li, and J. Xi,“Regularized Covariance Estimation for Polarization Radar Detection in Compound Gaussian Sea Clutter”, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, Jan. 2022. 
 
-16. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
+16. W. Peng, **L. Xie***, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE Communications Letters, vol. 26, no. 3, pp. 647-651, March 2022.
 
-17. **L. Xie**, Z. He, J. Tong, and W. Zhang, “A Recursive Angle-Doppler Channel Selection Method for Reduced-Dimension Space-Time Adaptive Processing”, IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 5, pp. 3985-4000, Oct. 2020. (<span style="color:red">IEEE TAES Popular Paper</span>🔥)
+17. J. Shi, **L. Xie***, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
 
-18. **L. Xie**, Z. He, J. Tong, J. Li, and H. Li, “Transmitter polarization optimization for space-time adaptive processing with diversely polarized antenna array”, Signal Processing, 2020, 169: 107401. 
+18. **L. Xie**, Z. He, J. Tong, and W. Zhang, “A Recursive Angle-Doppler Channel Selection Method for Reduced-Dimension Space-Time Adaptive Processing”, IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 5, pp. 3985-4000, Oct. 2020. (<span style="color:red">IEEE TAES Popular Paper</span>🔥)
 
-19. **L. Xie**, Z. He, J. Tong, H. Li, and L. Lin, “Fast long-time coherent integration algorithm for detecting manoeuvring targets with high-order motion parameters based on GKT and ISCPF”, IET Radar, Sonar & Navigation, 2019, 13(8): 1313-1322. 
+19. **L. Xie**, Z. He, J. Tong, J. Li, and H. Li, “Transmitter polarization optimization for space-time adaptive processing with diversely polarized antenna array”, Signal Processing, 2020, 169: 107401. 
+
+20. **L. Xie**, Z. He, J. Tong, H. Li, and L. Lin, “Fast long-time coherent integration algorithm for detecting manoeuvring targets with high-order motion parameters based on GKT and ISCPF”, IET Radar, Sonar & Navigation, 2019, 13(8): 1313-1322. 
 
 **Conference / 会议论文**
 ------
